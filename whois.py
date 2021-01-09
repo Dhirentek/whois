@@ -22,6 +22,7 @@ def Domain_info():
 master = Tk() 
 master.configure() 
 master.geometry("450x250") 
+master.title("Whois Gui Tool")
 
 
 # Variable Classes in tkinter 
